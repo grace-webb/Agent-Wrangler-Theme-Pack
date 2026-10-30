@@ -1,0 +1,20 @@
+{
+  "name": "agent-wrangler-theme-pack",
+  "version": "0.1.0",
+  "description": "Seven themes for Agent Wrangler: Mission Control, Amber Terminal, Botanical, Blueprint, Paper & Ink, After Hours, and Dark Cherry.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grace-webb/Agent-Wrangler-Theme-Pack.git"
+  },
+  "wranglerExtension": {
+    "id": "theme-pack",
+    "label": "Theme Pack",
+    "description": "Adds seven themes to Settings › Appearance.",
+    "author": "grace-webb",
+    "requires": [],
+    "engines": {
+      "wranglerApi": "^1.43.0"
+    }
+  }
+}
