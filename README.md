@@ -34,10 +34,4 @@ If the same themes were previously copied into `~/.agent-wrangler/custom-styles/
 
 The pack has no npm dependencies, build step, client script, or requested host capabilities. No dependency lockfile is required.
 
-## Adding a theme
-
-Add `styles/<unique-theme-id>/theme.json` with `name`, `icon` (SVG path data), and `base` (`dark` or `light`). Add colour overrides in `colors`, and either a CSS `background` or declared assets beside the manifest. The folder name is the theme ID: keep it stable across releases and distinct from other installed themes.
-
-See the [Agent Wrangler extension documentation](https://github.com/PortSwigger/agent-wrangler/blob/main/docs/extensions.md#themes).
-
 Disabling this extension hides all seven themes. A browser with one selected temporarily shows Dark and retains its saved choice for when the extension is enabled again.
