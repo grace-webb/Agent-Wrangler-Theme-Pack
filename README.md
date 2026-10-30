@@ -12,8 +12,6 @@ An Agent Wrangler extension containing seven themes, each with a terminal palett
 | After Hours | Aubergine, lavender text, coral accents, and a soft gradient. |
 | Dark Cherry | Based on Pink Dark: deep cherry and plum, pink accents, Quicksand type, and a cherry icon. |
 
-Dark Cherry adapts the local Pink Dark theme, with a new cherry icon and a deep cherry picker tile with pale pink ink. Its preview swatches use the theme’s pink accent, mint green, and rose red. The original `pink-dark` custom style is unchanged.
-
 ## Install
 
 Once this repository has been pushed to GitHub, open **Settings › Extensions › + Add extension** in Agent Wrangler and paste:
